@@ -1,0 +1,2 @@
+%{"kafka_ex": {:hex, :kafka_ex, "0.5.0", "d7c6d5a2b26a0b17e60e01d478230a92ca104633341dec11203eeb53bce0d449", [:mix], []},
+  "meck": {:hex, :meck, "0.8.4", "59ca1cd971372aa223138efcf9b29475bde299e1953046a0c727184790ab1520", [:rebar, :make], []}}
